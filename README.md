@@ -775,11 +775,6 @@
 </table>
 
 
-## Run these projects online :
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/BhanuRathore21/python-beginner-projects.git)
-
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/BhanuRathore21/python-beginner-projects.svg)](https://starchart.cc/BhanuRathore21/python-beginner-projects)
